@@ -2,19 +2,27 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "hello",
+      "gender": "male",
+       "mobile": 898789898
     },
      {
       "id": 2,
-      "title": "helloTEst"
+      "name": "helloTEst",
+       "gender": "female",
+       "mobile": 8987898637
     },
     {
       "id": 3,
-      "title": "rajesh"
+      "name": "rajesh",
+      "gender": "male",
+      "mobile": 998389898
     },
         {
       "id": 4,
-      "title": "suresh"
+      "name": "suresh",
+          "gender": "male",
+          "mobile": 798789898
     }
   ],
   "profile": {
